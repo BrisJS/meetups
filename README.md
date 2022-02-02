@@ -11,7 +11,8 @@ Pop by and
 
 ## Talk Tips ##
 
-You may be new to public speaking and if you are unsure where to get started these links can give you plenty of ideas. Please note you can get more tips on our website.  
+You may be new to public speaking and if you are unsure where to get started these links can give you plenty of ideas. Although we feel that BrisJS is supportive and more informal than a conference, some of these ideas are generally enriching. Please note, you can get more tips on our website.
 
 [How To Give An Amazing Conference Talk - Self Taught or Not.](https://www.selftaughtornot.com/episodes/how-to-give-an-amazing-conference-talk)
-[How to get into Speaking At Conferences - Syntax FM](https://syntax.fm/https://dev.to/syntax/how-to-get-into-speaking-at-conferences)
+
+[How to get into Speaking At Conferences - Syntax FM](https://dev.to/syntax/how-to-get-into-speaking-at-conferences)
